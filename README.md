@@ -1,7 +1,7 @@
 # Re•Ciclo
 
 ## 📷 Screenshot
-[![Screenshot](https://github.com/di-egoalves/Reciclo-Front/blob/di-egoalves/screenshot.jpg?raw=true "Screenshot")](https://github.com/di-egoalves/Reciclo-Front/blob/di-egoalves/screenshot.jpg?raw=true "Screenshot")
+[![Screenshot](https://github.com/di-egoalves/Reciclo-Front/blob/main/screenshot.jpg?raw=true "Screenshot")](https://github.com/di-egoalves/Reciclo-Front/blob/main/screenshot.jpg?raw=true "Screenshot")
 
 ## 📝 Descrição do projeto
 A aplicação Re•Ciclo é um site um sistema que permita aos catadores e as associações de catadores do projeto Reciclo, registrar, visualizar e baixar relatórios de suas atividades de coleta e venda de material reciclável.
