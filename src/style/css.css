@@ -1,0 +1,123 @@
+
+
+.login-navbar {
+  background: linear-gradient(to bottom, #ef7a2a, #e1621e) !important;
+}
+
+body {
+  background-image: url("../images/backgroundlogin.png") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-attachment: fixed !important;
+}
+
+body .outline-orange {
+  color: white !important;
+  background-color: transparent !important;
+  border-color: white !important;
+}
+
+body .outline-orange:hover {
+  color: #ef7a2a !important;
+  border-color: white !important;
+  background-color: white !important;
+}
+
+body .outline-orange:active {
+  color: white !important;
+  border-color: #e1621e !important;
+  background-color: #e1621e !important;
+}
+
+body .outline-white {
+  color: #ef7a2a !important;
+  background-color: transparent !important;
+  border-color: #ef7a2a !important;
+}
+
+body .outline-white:hover {
+  color: white !important;
+  border-color: #ef7a2a !important;
+  background-color: #ef7a2a !important;
+}
+body .outline-white:active {
+  color: white !important;
+  border-color: #ef7a2a !important;
+  background-color: #ef7a2a !important;
+}
+
+body .outline-white:active {
+  color: white !important;
+  border-color: #e1621e !important;
+  background-color: #e1621e !important;
+}
+
+body .btn-orange {
+  background-color: #ef7a2a !important;
+  color: #ffffff !important;
+  border-color: transparent !important;
+}
+
+body .btn-orange:hover[type="submit"] {
+  background-color: #e1621e !important;
+  color: #ffffff !important;
+  border-color: #ef7a2a !important;
+}
+
+body .btn-orange:active {
+  color: white !important;
+  border-color: #e1621e !important;
+  background-color: #e1621e !important;
+}
+
+body .custom-focus:focus {
+  border-color: #e1621e !important;
+  box-shadow: 0 0 0 0.2rem #ff725e50 !important;
+}
+
+label,
+.form-check-label,
+input {
+  margin-left: 0.5rem !important;
+}
+
+.text-orange {
+  color: #ef7a2a !important;
+}
+
+.border-orange {
+  border-color: #ef7a2a !important;
+  border-radius: 50px !important;
+}
+
+.custom-focus:checked {
+  background-color: #e1621e !important;
+  border-color: #ef7a2a !important         ;
+}
+
+.buttonindex {
+  margin: 0.5rem !important;
+  border-radius: 2rem !important;
+  padding: 0.8rem !important;
+  font-size: 1.5rem !important;
+}
+
+.title {
+  font-size: 4rem !important;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: #e1621e !important;
+  border-color: #e1621e !important;
+  color: #fff !important;
+}
+
+.pagination .page-item .page-link {
+  background-color: white !important; /* Cor de fundo para as páginas não ativas */
+  border-color: #ef7a2a !important; /* Cor da borda para as páginas não ativas, se necessário */
+  color: #ef7a2a !important; /* Cor do texto para as páginas não ativas */
+}
+
+.pagination .page-item .page-link:focus {
+  box-shadow: 0 0 0 0.2rem #ff725e50 !important;
+}
